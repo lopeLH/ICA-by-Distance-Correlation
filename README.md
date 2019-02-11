@@ -5,6 +5,5 @@ Intuitivelly, ICA finds the projection directions that minimize the statistical 
 
 The figure below shows ICA's projection directions (blue), the best randomly found directions so far (red) and the current directions being evaluated (orange), along with their corresponding distance correlations. This shows that ICA is indeed fact minimizing the statistical dependence of the resulting componnents.
 
-  <img src="https://github.com/lopeLH/BlindSourceSeparation/blob/master/movie.gif?raw=true" width=500></img>
+<img src="https://github.com/lopeLH/BlindSourceSeparation/blob/master/movie.gif?raw=true" width=500></img>
 
-![alt text](https://github.com/lopeLH/BlindSourceSeparation/blob/master/movie.gif?raw=true)
